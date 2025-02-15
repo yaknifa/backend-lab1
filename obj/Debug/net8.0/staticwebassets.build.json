@@ -1,0 +1,58 @@
+{
+  "Version": 1,
+  "Hash": "399jDZoHcYgSDZ2Y09vx5z10NPTxvoAEDswHisgNcqo=",
+  "Source": "BLAB1",
+  "BasePath": "_content/BLAB1",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [
+    {
+      "Name": "BLAB1\\wwwroot",
+      "Source": "BLAB1",
+      "ContentRoot": "C:\\Users\\user\\BLAB1\\wwwroot\\",
+      "BasePath": "_content/BLAB1",
+      "Pattern": "**"
+    }
+  ],
+  "Assets": [
+    {
+      "Identity": "C:\\Users\\user\\BLAB1\\wwwroot\\1.html",
+      "SourceId": "BLAB1",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\user\\BLAB1\\wwwroot\\",
+      "BasePath": "_content/BLAB1",
+      "RelativePath": "1.html",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "PreferTarget",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\1.html"
+    },
+    {
+      "Identity": "C:\\Users\\user\\BLAB1\\wwwroot\\index.html",
+      "SourceId": "BLAB1",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\user\\BLAB1\\wwwroot\\",
+      "BasePath": "_content/BLAB1",
+      "RelativePath": "index.html",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "PreferTarget",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\index.html"
+    }
+  ]
+}
